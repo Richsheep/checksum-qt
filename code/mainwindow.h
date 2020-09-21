@@ -14,6 +14,7 @@
 #include <QFileInfo>
 #include <QMessageBox>
 #include <QTime>
+#include <QMimeData>
 
 #include <stdint.h>
 #include <unistd.h>
@@ -28,7 +29,7 @@
 #include "md5.h"
 
 #define TOOL_MD5_LENGTH 16
-#define VERSION "1.0.2005.9131"
+#define VERSION "1.0.1"
 
 //#define DEBUG
 
